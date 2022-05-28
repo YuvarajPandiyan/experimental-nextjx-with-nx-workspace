@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "app": "apps/app",
-    "app-e2e": "apps/app-e2e"
+    "app-e2e": "apps/app-e2e",
+    "shared-ui": "libs/shared-ui",
+    "theming": "libs/theming"
   }
 }
